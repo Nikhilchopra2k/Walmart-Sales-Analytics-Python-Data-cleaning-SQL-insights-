@@ -15,10 +15,12 @@ Analyze → Use SQL queries to perform EDA, aggregation, and generate insights a
 
 Kaggle API (Python) - Extract raw Walmart dataset programmatically using authenticated access 
 
-Python (Pandas, NumPy) -	Clean and preprocess raw data: format dates, impute missing values, validate data types
+Python (Pandas, NumPy) -	Clean and preprocess raw data: impute missing values, validate data types
 
 SQLAlchemy -	Bridge Python and MySQL—handles database connection, schema setup, and query execution 
 
 PyMySQL -	MySQL driver used by SQLAlchemy for connecting to MySQL instances 
 
-MySQL / SQL scripts -	Analyze cleaned data using SQL queries (aggregations, window functions, trends)
+MySQL / SQL scripts -	Analyze cleaned data using SQL queries (aggregations, window functions, trends), format dates
+
+# Key Insights
