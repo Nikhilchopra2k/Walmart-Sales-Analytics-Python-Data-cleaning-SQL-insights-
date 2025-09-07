@@ -12,6 +12,17 @@ Load → Load cleaned dataset into MySQL database using pymysql(adapter) and sql
 
 Analyze → Use SQL queries to perform EDA, aggregation, and generate insights and trends
 # Tech Stack
-Python → Data Cleaning (pandas, numpy)
 
-SQL (MySQL) → Data exploration, window functions, aggregations
+Component	Purpose
+Kaggle API (Python)	Extract raw Walmart dataset programmatically using authenticated access 
+Kaggle
+
+Python (Pandas, NumPy)	Clean and preprocess raw data: format dates, impute missing values, validate data types
+SQLAlchemy	Bridge Python and MySQL—handles database connection, schema setup, and query execution 
+codingnomads.com
+Wikipedia
+
+PyMySQL	MySQL driver used by SQLAlchemy for connecting to MySQL instances 
+codingnomads.com
+
+MySQL / SQL scripts	Analyze cleaned data using SQL queries (aggregations, window functions, trends)
