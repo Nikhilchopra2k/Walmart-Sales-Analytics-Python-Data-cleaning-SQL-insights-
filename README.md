@@ -12,7 +12,6 @@ Load → Load cleaned dataset into MySQL database using pymysql(adapter) and sql
 
 Analyze → Use SQL queries to perform EDA, aggregation, and generate insights and trends
 # Tech Stack
-
 Python → Data Cleaning (pandas, numpy)
 
 SQL (MySQL) → Data exploration, window functions, aggregations
