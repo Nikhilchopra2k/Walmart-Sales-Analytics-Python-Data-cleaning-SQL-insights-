@@ -85,3 +85,21 @@ MySQL / SQL scripts -	Analyze cleaned data using SQL queries (aggregations, wind
 
 # Key Insights
 
+- credit card is mostly used payment method having 4256 number of payments
+- Each branch has high avg rating category like 001 have electronics acessories
+- Each branch has busiest day like 001 has thursday with 16 transactions
+- Five branches have revenue decrease ratio
+- WALM045	63
+  WALM047	59
+  WALM098	58
+  WALM033	56
+  WALM081	51
+
+# Project Structure
+
+|-- data/                     # Raw data and transformed data
+|-- sql_queries/              # SQL scripts for analysis and queries
+|-- notebooks/                # Jupyter notebooks for Python analysis
+|-- README.md                 # Project documentation
+|-- main.py                   # Main script for loading, cleaning, and processing data
+
