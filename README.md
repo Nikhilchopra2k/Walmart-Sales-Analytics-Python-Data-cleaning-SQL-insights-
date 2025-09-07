@@ -85,7 +85,7 @@ MySQL / SQL scripts -	Analyze cleaned data using SQL queries (aggregations, wind
 
 # Key Insights
 
-- credit card is mostly used payment method having 4256 number of payments
+- credit card is mostly used payment method having  4256 number of payments
 - Each branch has high avg rating category like 001 have electronics acessories
 - Each branch has busiest day like 001 has thursday with 16 transactions
 - Five branches have revenue decrease ratio
