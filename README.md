@@ -90,9 +90,13 @@ MySQL / SQL scripts -	Analyze cleaned data using SQL queries (aggregations, wind
 - Each branch has busiest day like 001 has thursday with 16 transactions
 - Five branches have revenue decrease ratio
 - WALM045	63
+- 
   WALM047	59
+  
   WALM098	58
+  
   WALM033	56
+  
   WALM081	51
 
 # Project Structure
